@@ -30,5 +30,5 @@
 - **Мова програмування:** Java
 - **Документація:** Javadoc
 - **Система контролю версій:** Git
-- **Середовище розробки:** Visual Studio Code
+- **Середовище розробки:** Visual Studio Code, IntelliJ IDEA 
 
